@@ -22,4 +22,4 @@ def speak_to_grandma(phrase)
   end
 end
 
-return speak_to_grandma(phrase)
+speak_to_grandma(phrase)
